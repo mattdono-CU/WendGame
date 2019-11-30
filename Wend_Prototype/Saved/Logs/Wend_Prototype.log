@@ -2164,3 +2164,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.30-22.49.30:149][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.30-22.49.30:319][999]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
 [2019.11.30-22.49.30:717][999]LogSavePackage: Moving 'H:/Documents/School/4th Yr/S1/Gaming/WendGame/Wend_Prototype/Saved/WendMainMap952AA6994F75AB46303F7FB01004F677.tmp' to 'H:/Documents/School/4th Yr/S1/Gaming/WendGame/Wend_Prototype/Content/WEND/Maps/WendMainMap.umap'
+[2019.11.30-22.51.13:798][107]LogHttp: Warning: 000001CEA7505080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B011DB326-4AE4-2B1D-4612-BB8835B4DAA6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=19f851334cac1ec8f1771c9b72c95548%7C21ab7caf03dd46998c78d1330d0f5aa8%7C6e380a4c-7ea8-4e0d-a06e-3aad978a107a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.30-22.51.13:798][107]LogHttp: Warning: 000001CEA7505080: request failed, libcurl error: 0 (No error)
+[2019.11.30-22.51.13:799][107]LogHttp: Warning: 000001CEA7505080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1ce7b667f70 [can pipeline])
+[2019.11.30-22.51.13:799][107]LogHttp: Warning: 000001CEA7505080: libcurl info message cache 1 (Re-using existing connection! (#50) with host datarouter.ol.epicgames.com)
+[2019.11.30-22.51.13:799][107]LogHttp: Warning: 000001CEA7505080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.228.241.16) port 443 (#50))
+[2019.11.30-22.51.13:799][107]LogHttp: Warning: 000001CEA7505080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.11.30-22.51.13:799][107]LogHttp: Warning: 000001CEA7505080: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.11.30-22.51.13:799][107]LogHttp: Warning: 000001CEA7505080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.11.30-22.51.13:799][107]LogHttp: Warning: 000001CEA7505080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.11.30-22.51.13:799][107]LogHttp: Warning: 000001CEA7505080: libcurl info message cache 7 (Closing connection 50)
+[2019.11.30-22.51.13:799][107]LogHttp: Warning: 000001CEA7505080: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.11.30-22.51.13:814][108]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B011DB326-4AE4-2B1D-4612-BB8835B4DAA6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=19f851334cac1ec8f1771c9b72c95548%7C21ab7caf03dd46998c78d1330d0f5aa8%7C6e380a4c-7ea8-4e0d-a06e-3aad978a107a&AppEnvironment=datacollector-binary&UploadType=eteventstream
