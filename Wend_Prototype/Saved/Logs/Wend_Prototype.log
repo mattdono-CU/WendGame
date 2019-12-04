@@ -4781,3 +4781,557 @@ Script Stack (0 frames):
 [2019.12.04-19.43.12:131][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
 [2019.12.04-19.43.12:441][ 95]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/WendGameMapB124CE344F365491E36666A8C3219908.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Maps/WendGameMap.umap'
 [2019.12.04-19.43.15:328][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.12.04-19.43.54:459][954]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-19.43.54:481][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.43.54:481][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-19.43.54:482][954]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 9:43:54 AM)
+[2019.12.04-19.43.54:482][954]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-19.43.54:496][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014372s)
+[2019.12.04-19.43.54:497][954]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-19.43.54:497][954]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2019.12.04-19.43.54:497][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015235s)
+[2019.12.04-19.43.54:541][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.12.04-19.43.54:550][954]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-19.43.54:557][954]LogInit: FAudioDevice initialized.
+[2019.12.04-19.43.54:565][954]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-19.43.54:570][954]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-14.43.54
+[2019.12.04-19.43.54:571][954]LogWorld: Bringing up level for play took: 0.005056
+[2019.12.04-19.43.54:574][954]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2019.12.04-19.43.54:575][954]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap -0.63
+[2019.12.04-19.43.54:576][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.05:527][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-19.44.08:023][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.08:023][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-19.44.08:023][141]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-19.44.08:023][141]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-19.44.08:125][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-19.44.08:125][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.08:174][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-19.44.08:178][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.12.04-19.44.08:295][142]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2019.12.04-19.44.12:503][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.44.18:956][927]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-19.44.18:975][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.18:976][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-19.44.18:976][927]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 9:44:18 AM)
+[2019.12.04-19.44.18:976][927]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-19.44.18:991][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014795s)
+[2019.12.04-19.44.18:991][927]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-19.44.18:991][927]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2019.12.04-19.44.18:991][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015673s)
+[2019.12.04-19.44.19:033][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.12.04-19.44.19:042][927]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-19.44.19:049][927]LogInit: FAudioDevice initialized.
+[2019.12.04-19.44.19:055][927]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-19.44.19:060][927]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-14.44.19
+[2019.12.04-19.44.19:061][927]LogWorld: Bringing up level for play took: 0.005120
+[2019.12.04-19.44.19:063][927]LogOnline: OSS: Creating online subsystem instance for: :Context_111
+[2019.12.04-19.44.19:065][927]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap -0.14
+[2019.12.04-19.44.19:065][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.27:165][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.27:165][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-19.44.27:166][576]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-19.44.27:166][576]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-19.44.27:261][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-19.44.27:261][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.27:309][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-19.44.27:317][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.12.04-19.44.27:434][577]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2019.12.04-19.44.29:156][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.44.29:567][718]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-19.44.29:585][718]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.29:585][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-19.44.29:585][718]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 9:44:29 AM)
+[2019.12.04-19.44.29:586][718]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-19.44.29:600][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014644s)
+[2019.12.04-19.44.29:601][718]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-19.44.29:601][718]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2019.12.04-19.44.29:601][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015451s)
+[2019.12.04-19.44.29:645][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.12.04-19.44.29:654][718]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-19.44.29:661][718]LogInit: FAudioDevice initialized.
+[2019.12.04-19.44.29:665][718]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-19.44.29:670][718]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-14.44.29
+[2019.12.04-19.44.29:670][718]LogWorld: Bringing up level for play took: 0.004702
+[2019.12.04-19.44.29:673][718]LogOnline: OSS: Creating online subsystem instance for: :Context_112
+[2019.12.04-19.44.29:674][718]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.469
+[2019.12.04-19.44.29:674][718]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.38:946][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.38:946][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-19.44.38:946][450]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-19.44.38:946][450]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-19.44.39:050][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-19.44.39:050][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.39:098][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-19.44.39:102][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.12.04-19.44.39:218][451]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2019.12.04-19.44.43:188][732]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-19.44.49:210][146]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-19.44.58:760][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.44.58:760][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-19.44.58:761][792]PIE: New page: SIE session: WendGameMap (Dec 4, 2019, 9:44:58 AM)
+[2019.12.04-19.44.58:761][792]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-19.44.58:775][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014562s)
+[2019.12.04-19.44.58:776][792]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-19.44.58:776][792]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2019.12.04-19.44.58:776][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015443s)
+[2019.12.04-19.44.58:819][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.12.04-19.44.58:829][792]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-19.44.58:836][792]LogInit: FAudioDevice initialized.
+[2019.12.04-19.44.58:843][792]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-19.44.58:847][792]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-14.44.58
+[2019.12.04-19.44.58:848][792]LogWorld: Bringing up level for play took: 0.004650
+[2019.12.04-19.44.58:850][792]LogOnline: OSS: Creating online subsystem instance for: :Context_113
+[2019.12.04-19.44.58:851][792]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.04-19.44.58:852][792]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap -0.353
+[2019.12.04-19.44.58:858][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.45.01:178][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.45.01:178][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-19.45.01:178][916]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-19.45.01:180][916]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-19.45.01:289][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-19.45.01:289][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.45.01:334][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-19.45.01:339][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.12.04-19.45.01:455][917]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2019.12.04-19.45.02:439][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-19.45.03:468][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.04-19.45.05:733][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.45.05:806][211]LogTemp: Repeating last play command: Standalone Game
+[2019.12.04-19.45.05:861][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.12.04-19.46.30:264][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.46.36:861][965]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-19.46.40:579][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.46.54:775][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.46.58:782][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.46.58:891][806]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/P_DoorOpening52C7285045A15FB8598B0DBF83C68F60.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Particles/P_DoorOpening.uasset'
+[2019.12.04-19.46.59:838][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.47.03:338][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.47.20:705][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.47.26:160][ 97]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/P_DoorOpening9EC283F34A95ABE9421F148202232E92.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Particles/P_DoorOpening.uasset'
+[2019.12.04-19.47.28:251][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.47.28:313][274]LogTemp: Repeating last play command: Standalone Game
+[2019.12.04-19.47.28:373][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.12.04-19.48.02:557][255]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.04-19.48.02:840][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.04-19.48.03:142][255]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacterC02B17EB4EEE113055C53C955FCE4B5C.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-19.48.03:569][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.48.03:757][279]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacterF22A55B14159BB332A6E8C8D51BE2B89.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-19.48.06:972][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.48.07:911][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.48.11:589][ 10]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/P_DoorOpeningF211B70445D81C42A0D46EAD9019CE99.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Particles/P_DoorOpening.uasset'
+[2019.12.04-19.48.13:252][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.48.13:336][169]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/P_DoorOpening9141C07D4AE09716260078A450785914.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Particles/P_DoorOpening.uasset'
+[2019.12.04-19.48.14:881][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.48.14:948][317]LogTemp: Repeating last play command: Standalone Game
+[2019.12.04-19.48.15:005][317]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.12.04-19.48.17:281][317]LogSlate: Window 'Save Content' being destroyed
+[2019.12.04-19.48.17:289][317]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-19.48.17:340][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.12.04-19.48.17:632][317]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/WendGameMapCAF9BA534BF10CF7E6ABB2828DE65512.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Maps/WendGameMap.umap'
+[2019.12.04-19.48.17:661][317]LogFileHelpers: Saving map 'WendGameMap' took 0.364
+[2019.12.04-19.48.44:203][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.49.03:931][ 78]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.04-19.49.28:197][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.49.38:032][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.49.51:035][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.49.58:268][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.50.09:639][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.50.10:390][244]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.04-19.50.17:125][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.50.17:965][832]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.04-19.50.27:073][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.50.31:226][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CircularMaze)
+[2019.12.04-19.50.33:741][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_SquareRelic_C (BP_SquareRelic)
+[2019.12.04-19.50.42:937][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.50.43:381][868]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.04-19.50.46:668][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.04-19.50.49:793][363]LogEditorViewport: Clicking on Actor (LMB): BP_TriangleRelic_C (BP_TriangleRelic)
+[2019.12.04-19.50.57:270][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.50.57:421][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.12.04-19.50.57:731][975]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/WendGameMapE649F9154AE52E1A696AB6BBDA205203.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Maps/WendGameMap.umap'
+[2019.12.04-19.51.20:932][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.51.21:085][562]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.12.04-19.51.21:394][562]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/WendGameMap15DEE0B940F20A743FFDBA87E9072AEF.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Maps/WendGameMap.umap'
+[2019.12.04-19.51.24:532][756]LogTemp: Repeating last play command: Standalone Game
+[2019.12.04-19.51.24:586][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.12.04-19.52.44:790][508]Cmd: TRANSACTION UNDO
+[2019.12.04-19.52.44:790][508]LogEditorTransaction: Undo Move Actors
+[2019.12.04-19.52.50:596][880]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-19.53.17:500][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-19.53.17:970][765]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.04-19.53.38:710][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-19.53.40:616][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.53.40:616][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-19.53.40:616][298]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 9:53:40 AM)
+[2019.12.04-19.53.40:616][298]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-19.53.40:631][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014631s)
+[2019.12.04-19.53.40:632][298]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-19.53.40:632][298]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2019.12.04-19.53.40:632][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015526s)
+[2019.12.04-19.53.40:680][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.12.04-19.53.40:690][298]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-19.53.40:697][298]LogInit: FAudioDevice initialized.
+[2019.12.04-19.53.40:698][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-19.53.40:706][298]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-19.53.40:711][298]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-14.53.40
+[2019.12.04-19.53.40:711][298]LogWorld: Bringing up level for play took: 0.004802
+[2019.12.04-19.53.40:714][298]LogOnline: OSS: Creating online subsystem instance for: :Context_114
+[2019.12.04-19.53.40:716][298]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap -0.481
+[2019.12.04-19.53.40:716][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-19.54.34:736][310]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-20.02.24:878][177]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-20.04.44:282][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-20.04.51:807][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.04.51:807][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.04.51:807][135]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.04.51:808][135]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-20.04.51:916][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-20.04.51:916][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.04.51:965][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.04.51:970][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.04-20.04.52:083][136]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2019.12.04-20.04.56:539][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.12.04-20.04.56:594][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.12.04-20.04.56:907][472]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/WendGameMap83385FBD4A7F15F07DECE58190CDB8A6.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Maps/WendGameMap.umap'
+[2019.12.04-20.04.56:940][472]LogFileHelpers: Saving map 'WendGameMap' took 0.389
+[2019.12.04-20.06.55:638][430]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.04-20.06.55:922][430]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.12.04-20.06.56:238][430]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacter2841383A422ABAAEC9DE8BB5AD899E18.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.06.56:869][454]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacterEEA3F5EA4403D478B1828F8082C29408.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.07.11:483][714]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-20.07.11:503][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.07.11:503][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-20.07.11:503][714]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 10:07:11 AM)
+[2019.12.04-20.07.11:504][714]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.07.11:518][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014536s)
+[2019.12.04-20.07.11:519][714]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-20.07.11:519][714]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2019.12.04-20.07.11:519][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015509s)
+[2019.12.04-20.07.11:567][714]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.12.04-20.07.11:576][714]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-20.07.11:584][714]LogInit: FAudioDevice initialized.
+[2019.12.04-20.07.11:587][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.07.11:587][714]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-20.07.11:592][714]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-15.07.11
+[2019.12.04-20.07.11:593][714]LogWorld: Bringing up level for play took: 0.005444
+[2019.12.04-20.07.11:596][714]LogOnline: OSS: Creating online subsystem instance for: :Context_115
+[2019.12.04-20.07.11:597][714]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.04-20.07.11:603][714]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.418
+[2019.12.04-20.07.11:603][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.07.21:344][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.07.21:344][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.07.21:344][459]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.07.21:359][459]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.04-20.07.21:361][459]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-20.07.21:484][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-20.07.21:484][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.07.21:535][459]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.04-20.07.21:650][460]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2019.12.04-20.07.36:201][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.07.42:843][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.07.47:097][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.07.53:279][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.08.02:374][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.08.02:451][446]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-20.08.02:469][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.08.02:469][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-20.08.02:469][446]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 10:08:02 AM)
+[2019.12.04-20.08.02:469][446]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.08.02:484][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014678s)
+[2019.12.04-20.08.02:485][446]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-20.08.02:485][446]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2019.12.04-20.08.02:485][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015580s)
+[2019.12.04-20.08.02:533][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.12.04-20.08.02:542][446]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-20.08.02:549][446]LogInit: FAudioDevice initialized.
+[2019.12.04-20.08.02:557][446]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-20.08.02:561][446]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-15.08.02
+[2019.12.04-20.08.02:562][446]LogWorld: Bringing up level for play took: 0.004653
+[2019.12.04-20.08.02:564][446]LogOnline: OSS: Creating online subsystem instance for: :Context_116
+[2019.12.04-20.08.02:566][446]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap -0.618
+[2019.12.04-20.08.02:566][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.08.09:113][995]LogActorComponent: Error: May not destroy component BoxComponent /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.Box owned by BP_Door_C /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.
+[2019.12.04-20.08.15:430][505]LogActorComponent: Error: May not destroy component BoxComponent /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.Box owned by BP_Door_C /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.
+[2019.12.04-20.08.50:550][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.08.50:551][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.08.50:551][475]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.08.50:551][475]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-20.08.50:670][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-20.08.50:670][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.08.50:717][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.08.50:722][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.12.04-20.08.50:842][476]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2019.12.04-20.09.12:396][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.09.29:907][564]BlueprintLog: New page: Compile BP_Door
+[2019.12.04-20.09.30:260][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.12.04-20.09.30:367][564]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/BP_DoorE8C5C02541E50BAC3A3367881DC9D52A.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Door/BP_Door.uasset'
+[2019.12.04-20.09.30:846][584]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/BP_Door502B236B40C021D6A086A7BE6BD2EC87.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Door/BP_Door.uasset'
+[2019.12.04-20.09.47:272][891]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/BP_Door1832B739451EA660F2F4D28DBBF24BD7.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Door/BP_Door.uasset'
+[2019.12.04-20.09.51:501][225]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-20.09.51:519][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.09.51:519][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-20.09.51:519][225]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 10:09:51 AM)
+[2019.12.04-20.09.51:519][225]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.09.51:534][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014790s)
+[2019.12.04-20.09.51:535][225]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-20.09.51:535][225]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2019.12.04-20.09.51:535][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015641s)
+[2019.12.04-20.09.51:580][225]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.12.04-20.09.51:589][225]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-20.09.51:598][225]LogInit: FAudioDevice initialized.
+[2019.12.04-20.09.51:601][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.09.51:601][225]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-20.09.51:606][225]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-15.09.51
+[2019.12.04-20.09.51:607][225]LogWorld: Bringing up level for play took: 0.005280
+[2019.12.04-20.09.51:610][225]LogOnline: OSS: Creating online subsystem instance for: :Context_117
+[2019.12.04-20.09.51:611][225]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.04-20.09.51:617][225]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.434
+[2019.12.04-20.09.51:617][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.09.57:690][643]LogActorComponent: Error: May not destroy component BoxComponent /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.Box owned by BP_Door_C /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.
+[2019.12.04-20.10.05:343][163]LogActorComponent: Error: May not destroy component BoxComponent /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.Box owned by BP_Door_C /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.
+[2019.12.04-20.10.10:218][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.10.10:218][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.10.10:218][480]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.10.10:233][480]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.04-20.10.10:235][480]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-20.10.10:362][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-20.10.10:362][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.10.10:416][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.12.04-20.10.10:561][481]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2019.12.04-20.10.30:759][ 22]BlueprintLog: New page: Compile BP_Door
+[2019.12.04-20.10.31:109][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.12.04-20.10.31:806][ 57]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/BP_DoorD82DC7EE4FE38643853C23884FE71B81.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Door/BP_Door.uasset'
+[2019.12.04-20.10.33:429][170]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacterE410A67B4C477B993BE03C9C577F4ADA.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.10.33:899][205]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.04-20.10.34:187][205]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2019.12.04-20.10.38:656][536]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-20.10.38:674][536]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.10.38:674][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-20.10.38:674][536]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 10:10:38 AM)
+[2019.12.04-20.10.38:674][536]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.10.38:688][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014525s)
+[2019.12.04-20.10.38:689][536]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-20.10.38:689][536]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2019.12.04-20.10.38:689][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015421s)
+[2019.12.04-20.10.38:736][536]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.12.04-20.10.38:745][536]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-20.10.38:752][536]LogInit: FAudioDevice initialized.
+[2019.12.04-20.10.38:755][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.10.38:755][536]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-20.10.38:760][536]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-15.10.38
+[2019.12.04-20.10.38:761][536]LogWorld: Bringing up level for play took: 0.005279
+[2019.12.04-20.10.38:764][536]LogOnline: OSS: Creating online subsystem instance for: :Context_118
+[2019.12.04-20.10.38:765][536]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.04-20.10.38:771][536]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap -0.411
+[2019.12.04-20.10.38:771][536]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.10.45:708][ 19]LogActorComponent: Error: May not destroy component BoxComponent /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.Box owned by BP_Door_C /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.
+[2019.12.04-20.10.52:177][460]LogActorComponent: Error: May not destroy component BoxComponent /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.Box owned by BP_Door_C /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap:PersistentLevel.BP_Door_2.
+[2019.12.04-20.10.58:744][907]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.10.58:744][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.10.58:745][907]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.10.58:759][907]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.04-20.10.58:763][907]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-20.10.58:892][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-20.10.58:892][907]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.10.58:945][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.04-20.10.59:087][908]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2019.12.04-20.12.45:835][643]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.04-20.12.46:121][643]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.12.04-20.12.46:444][643]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacter803C551F4829569A53C4CFBF8041198D.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.12.50:398][922]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacter21CF0D6D44C2A6ACFF1BD99CCFF6160C.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.12.53:974][185]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-20.12.53:991][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.12.53:991][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-20.12.53:991][185]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 10:12:53 AM)
+[2019.12.04-20.12.53:992][185]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.12.54:006][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014612s)
+[2019.12.04-20.12.54:007][185]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-20.12.54:007][185]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2019.12.04-20.12.54:007][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015576s)
+[2019.12.04-20.12.54:054][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.12.04-20.12.54:063][185]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-20.12.54:070][185]LogInit: FAudioDevice initialized.
+[2019.12.04-20.12.54:073][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.12.54:073][185]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-20.12.54:078][185]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-15.12.54
+[2019.12.04-20.12.54:079][185]LogWorld: Bringing up level for play took: 0.005181
+[2019.12.04-20.12.54:082][185]LogOnline: OSS: Creating online subsystem instance for: :Context_119
+[2019.12.04-20.12.54:083][185]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.04-20.12.54:089][185]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.909
+[2019.12.04-20.12.54:089][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.13.08:046][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.13.08:046][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.13.08:046][ 85]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.13.08:061][ 85]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.04-20.13.08:065][ 85]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-20.13.08:196][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-20.13.08:196][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.13.08:250][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.12.04-20.13.08:395][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2019.12.04-20.13.09:363][155]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-20.13.09:381][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.13.09:381][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-20.13.09:381][155]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 10:13:09 AM)
+[2019.12.04-20.13.09:381][155]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.13.09:396][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014564s)
+[2019.12.04-20.13.09:396][155]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-20.13.09:397][155]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2019.12.04-20.13.09:397][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015478s)
+[2019.12.04-20.13.09:441][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.12.04-20.13.09:449][155]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-20.13.09:456][155]LogInit: FAudioDevice initialized.
+[2019.12.04-20.13.09:459][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.13.09:459][155]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-20.13.09:464][155]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-15.13.09
+[2019.12.04-20.13.09:465][155]LogWorld: Bringing up level for play took: 0.005149
+[2019.12.04-20.13.09:467][155]LogOnline: OSS: Creating online subsystem instance for: :Context_120
+[2019.12.04-20.13.09:468][155]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.04-20.13.09:474][155]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.295
+[2019.12.04-20.13.09:475][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.13.24:715][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.13.24:715][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.13.24:715][141]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.13.24:730][141]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.04-20.13.24:734][141]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-20.13.24:861][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-20.13.24:861][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.13.24:917][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.12.04-20.13.25:061][142]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2019.12.04-20.14.56:436][285]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.04-20.14.56:725][285]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.12.04-20.14.57:050][285]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacterA90AC7944BBAE0197F67B79A2801FE8F.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.14.57:586][298]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacter67C8F1BA4620516FAE8C1AB45D858735.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.14.59:506][439]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-20.14.59:523][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.14.59:524][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-20.14.59:524][439]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 10:14:59 AM)
+[2019.12.04-20.14.59:524][439]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.14.59:538][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014578s)
+[2019.12.04-20.14.59:539][439]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-20.14.59:539][439]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2019.12.04-20.14.59:539][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015458s)
+[2019.12.04-20.14.59:585][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.12.04-20.14.59:594][439]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-20.14.59:601][439]LogInit: FAudioDevice initialized.
+[2019.12.04-20.14.59:604][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.14.59:605][439]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-20.14.59:610][439]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-15.14.59
+[2019.12.04-20.14.59:611][439]LogWorld: Bringing up level for play took: 0.005622
+[2019.12.04-20.14.59:613][439]LogOnline: OSS: Creating online subsystem instance for: :Context_121
+[2019.12.04-20.14.59:615][439]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.04-20.14.59:621][439]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.443
+[2019.12.04-20.14.59:621][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.15.20:654][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.15.20:654][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.15.20:654][787]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.15.20:668][787]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.04-20.15.20:671][787]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-20.15.20:805][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-20.15.20:805][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.15.20:855][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.04-20.15.21:007][788]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2019.12.04-20.15.52:200][  1]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.04-20.15.52:224][  1]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a Variant, therefore ' Target ' must have a connection.
+[2019.12.04-20.15.52:484][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.12.04-20.15.52:797][  1]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacterECE77C7947B9A254819D7DB9259F0337.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.16.40:199][334]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.04-20.16.40:488][334]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2019.12.04-20.16.40:814][334]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacter3A8DBDEC4914575341C567AA3F91B61B.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.16.41:103][336]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacterE5EFF1684B5612B7D8DC2E9C31E7C84F.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.16.42:406][430]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-20.16.42:424][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.16.42:424][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-20.16.42:424][430]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 10:16:42 AM)
+[2019.12.04-20.16.42:425][430]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.16.42:439][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014291s)
+[2019.12.04-20.16.42:439][430]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-20.16.42:440][430]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2019.12.04-20.16.42:440][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015094s)
+[2019.12.04-20.16.42:487][430]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.12.04-20.16.42:496][430]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-20.16.42:503][430]LogInit: FAudioDevice initialized.
+[2019.12.04-20.16.42:506][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.16.42:506][430]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-20.16.42:511][430]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-15.16.42
+[2019.12.04-20.16.42:512][430]LogWorld: Bringing up level for play took: 0.005347
+[2019.12.04-20.16.42:514][430]LogOnline: OSS: Creating online subsystem instance for: :Context_122
+[2019.12.04-20.16.42:516][430]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.04-20.16.42:522][430]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap -0.655
+[2019.12.04-20.16.42:522][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.17.03:133][775]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.17.03:133][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.17.03:133][775]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.17.03:148][775]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.04-20.17.03:150][775]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-20.17.03:294][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-20.17.03:294][775]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.17.03:346][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.04-20.17.03:490][776]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2019.12.04-20.18.03:596][833]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.04-20.18.03:883][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.12.04-20.18.04:212][833]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacter2D3AC82B40175334D19BE0831E0BC0AB.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.18.04:952][865]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacter0B78F7B04D0435DA53E2A7B08E7B14B2.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.18.06:072][943]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-20.18.06:090][943]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.18.06:090][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-20.18.06:090][943]PIE: New page: PIE session: WendGameMap (Dec 4, 2019, 10:18:06 AM)
+[2019.12.04-20.18.06:090][943]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.18.06:105][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014377s)
+[2019.12.04-20.18.06:105][943]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.04-20.18.06:105][943]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2019.12.04-20.18.06:105][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.015189s)
+[2019.12.04-20.18.06:152][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.12.04-20.18.06:161][943]LogInit: XAudio2 using 'DELL ST2421L (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-20.18.06:168][943]LogInit: FAudioDevice initialized.
+[2019.12.04-20.18.06:171][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.18.06:171][943]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.04-20.18.06:176][943]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.04-15.18.06
+[2019.12.04-20.18.06:177][943]LogWorld: Bringing up level for play took: 0.005283
+[2019.12.04-20.18.06:180][943]LogOnline: OSS: Creating online subsystem instance for: :Context_123
+[2019.12.04-20.18.06:181][943]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.04-20.18.06:187][943]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 1.012
+[2019.12.04-20.18.06:187][943]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.18.29:396][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-20.18.31:089][504]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.18.31:089][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-20.18.31:089][504]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.04-20.18.31:103][504]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.04-20.18.31:105][504]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-20.18.31:253][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-20.18.31:253][504]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.04-20.18.31:307][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.12.04-20.18.31:462][505]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2019.12.04-20.19.40:741][398]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.04-20.19.41:031][398]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.12.04-20.19.41:374][398]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacter314E21224532A25AB615358B15A38F06.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.19.41:735][404]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/ThirdPersonCharacterC9D1B1834DB3FF637A8B77B218EF7E4D.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.04-20.20.05:757][955]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.04-20.20.06:075][955]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/WendGameMap_Auto396BBB5714BE6206D35DA64B34AE1C42B.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/Autosaves/Game/WEND/Maps/WendGameMap_Auto3.umap'
+[2019.12.04-20.20.06:080][955]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WEND/Maps/WendGameMap' took 0.371
+[2019.12.04-20.20.06:080][955]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.371
+[2019.12.04-20.21.14:589][253]LogSlate: Window 'WendGameMap' being destroyed
+[2019.12.04-20.21.16:466][384]BlueprintLog: New page: Compile WendGameMap
+[2019.12.04-20.21.16:717][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.12.04-20.21.16:784][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.04-20.21.17:103][384]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/WendGameMap2AD556CD4E97F1367CBAEEAC574B7E44.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Maps/WendGameMap.umap'
+[2019.12.04-20.21.17:135][384]LogFileHelpers: Saving map 'WendGameMap' took 0.394
+[2019.12.04-20.21.17:644][404]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.12.04-20.21.17:971][404]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/WendGameMap6AA74C34401C0504BB67D69C3BBB74B5.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Maps/WendGameMap.umap'
+[2019.12.04-20.21.18:001][404]LogFileHelpers: Saving map 'WendGameMap' took 0.406
+[2019.12.04-20.21.30:207][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.21.39:838][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.21.44:847][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.22.00:550][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.22.12:899][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.22.13:053][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.12.04-20.22.13:389][743]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/WendGameMapA1A371A14BFA7B95A1F4ED9F87F5D3A2.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Maps/WendGameMap.umap'
+[2019.12.04-20.22.40:009][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.04-20.22.46:210][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.22.46:925][617]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.04-20.22.50:916][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.22.51:582][901]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.04-20.22.58:520][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-20.22.58:674][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.12.04-20.22.58:986][337]LogSavePackage: Moving '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Saved/WendGameMap3D79EEED4C7008C3E6F43FBC7CD982DC.tmp' to '../../../../../../Users/heatherhennessey/Documents/GitHub/WendGame/Wend_Prototype/Content/WEND/Maps/WendGameMap.umap'
+[2019.12.04-20.23.19:533][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
