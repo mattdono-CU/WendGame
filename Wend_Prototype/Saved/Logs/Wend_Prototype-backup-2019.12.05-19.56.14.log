@@ -1,0 +1,980 @@
+﻿Log file open, 12/05/19 14:38:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Wend_Prototype
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.066967
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Engine.ini]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Engine.ini]
+[2019.12.05-19.38.32:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Engine.ini]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Engine.ini]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.05-19.38.32:430][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.05-19.38.32:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Engine.ini]
+[2019.12.05-19.38.32:431][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Engine.ini]
+[2019.12.05-19.38.32:432][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:432][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.05-19.38.32:432][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.05-19.38.32:432][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:432][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.05-19.38.32:432][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:432][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.05-19.38.32:432][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.05-19.38.32:432][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.05-19.38.32:432][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.05-19.38.32:432][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.05-19.38.32:432][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.05-19.38.32:433][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.05-19.38.32:433][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.05-19.38.32:433][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.05-19.38.32:439][  0]LogHAL: Display: Platform has ~ 32 GB [34277683200 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.05-19.38.32:439][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.05-19.38.32:439][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.05-19.38.32:439][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.05-19.38.32:440][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.05-19.38.32:442][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.05-19.38.32:442][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.05-19.38.32:442][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Config/Windows/Engine.ini]
+[2019.12.05-19.38.32:442][  0]LogInit: Computer: L-CB4111-40
+[2019.12.05-19.38.32:442][  0]LogInit: User: quinnhenschel
+[2019.12.05-19.38.32:442][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.12.05-19.38.32:442][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.05-19.38.32:442][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.12.05-19.38.32:442][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.05-19.38.32:442][  0]LogMemory: Process Physical Memory: 107.12 MB used, 107.12 MB peak
+[2019.12.05-19.38.32:442][  0]LogMemory: Process Virtual Memory: 105.94 MB used, 105.94 MB peak
+[2019.12.05-19.38.32:442][  0]LogMemory: Physical Memory: 21620.83 MB used,  11068.91 MB free, 32689.75 MB total
+[2019.12.05-19.38.32:442][  0]LogMemory: Virtual Memory: 4734.00 MB used,  134212992.00 MB free, 134217728.00 MB total
+[2019.12.05-19.38.32:446][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.05-19.38.32:477][  0]LogInit: Using OS detected language (en-US).
+[2019.12.05-19.38.32:478][  0]LogInit: Using OS detected locale (en-CA).
+[2019.12.05-19.38.32:478][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.05-19.38.32:605][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.05-19.38.32:643][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.05-19.38.32:643][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.05-19.38.33:507][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.05-19.38.33:507][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.05-19.38.33:583][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.12.05-19.38.33:583][  0]LogD3D11RHI:       6052/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.05-19.38.33:586][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.05-19.38.33:586][  0]LogD3D11RHI:       0/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.05-19.38.33:586][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.05-19.38.33:592][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.05-19.38.33:592][  0]LogD3D11RHI:     GPU DeviceId: 0x1b83 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.05-19.38.33:592][  0]LogWindows: EnumDisplayDevices:
+[2019.12.05-19.38.33:592][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.12.05-19.38.33:592][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.05-19.38.33:592][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.05-19.38.33:593][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.05-19.38.33:593][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.05-19.38.33:593][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.12.05-19.38.33:593][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.12.05-19.38.33:593][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.12.05-19.38.33:593][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.12.05-19.38.33:643][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.05-19.38.33:654][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.05-19.38.33:925][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.05-19.38.33:933][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.05-19.38.33:941][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.05-19.38.33:948][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.05-19.38.33:959][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.05-19.38.33:967][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.05-19.38.33:975][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.05-19.38.33:983][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.05-19.38.33:987][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.05-19.38.34:015][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.05-19.38.34:017][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.05-19.38.34:037][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.05-19.38.34:037][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.05-19.38.34:051][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.05-19.38.34:051][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.05-19.38.34:058][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.05-19.38.34:065][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.05-19.38.34:073][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.05-19.38.34:083][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.05-19.38.34:108][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.05-19.38.34:108][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.05-19.38.34:108][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.05-19.38.34:118][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.05-19.38.34:169][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Intermediate/Shaders/WorkingDirectory/18588/).
+[2019.12.05-19.38.34:170][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/quinnhenschel/AppData/Local/Temp/UnrealShaderWorkingDir/6E2F11F2417D2A96FF3A45A80CBF76E7/'.
+[2019.12.05-19.38.34:172][  0]LogXGEController: Cleaning working directory: C:/Users/quinnhenschel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.05-19.38.34:172][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.05-19.38.34:172][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.05-19.38.34:172][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.05-19.38.35:431][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.05-19.38.35:468][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/quinnhenschel/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.05-19.38.35:468][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/quinnhenschel/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.05-19.38.35:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.05-19.38.35:468][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.05-19.38.35:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.05-19.38.35:468][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.05-19.38.35:477][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.05-19.38.35:478][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.05-19.38.35:478][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.05-19.38.35:481][  0]LogDerivedDataCache: Using Local data cache path C:/Users/quinnhenschel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.05-19.38.35:481][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.05-19.38.35:481][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.05-19.38.35:497][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.05-19.38.35:499][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.05-19.38.35:502][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.05-19.38.35:694][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2019.12.05-19.38.35:909][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.05-19.38.36:041][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.05-19.38.36:041][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.05-19.38.36:041][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.05-19.38.36:041][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.05-19.38.36:041][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.05-19.38.36:052][  0]LogNetVersion: Wend_Prototype 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3610209969)
+[2019.12.05-19.38.36:055][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Ambiance': Can't find file.
+[2019.12.05-19.38.36:055][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Ambiance': Can't find file.
+[2019.12.05-19.38.36:055][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Dialogue': Can't find file.
+[2019.12.05-19.38.36:055][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Dialogue': Can't find file.
+[2019.12.05-19.38.36:055][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Music': Can't find file.
+[2019.12.05-19.38.36:055][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Music': Can't find file.
+[2019.12.05-19.38.36:055][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_SoundEffects': Can't find file.
+[2019.12.05-19.38.36:055][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_SoundEffects': Can't find file.
+[2019.12.05-19.38.36:055][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Ambiance': Can't find file.
+[2019.12.05-19.38.36:055][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Ambiance': Can't find file.
+[2019.12.05-19.38.36:056][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Dialogue': Can't find file.
+[2019.12.05-19.38.36:056][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Dialogue': Can't find file.
+[2019.12.05-19.38.36:056][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Music': Can't find file.
+[2019.12.05-19.38.36:056][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Music': Can't find file.
+[2019.12.05-19.38.36:056][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_SoundEffects': Can't find file.
+[2019.12.05-19.38.36:056][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_SoundEffects': Can't find file.
+[2019.12.05-19.38.36:056][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Ambiance': Can't find file.
+[2019.12.05-19.38.36:056][  0]LoadErrors: Failed to load /Game/Audio/SoundClasses/SCL_Ambiance.SCL_Ambiance Referenced by Master
+[2019.12.05-19.38.36:056][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Ambiance': Can't find file.
+[2019.12.05-19.38.36:056][  0]LoadErrors: Failed to load /Game/Audio/SoundClasses/SCL_Ambiance.SCL_Ambiance Referenced by Master
+[2019.12.05-19.38.36:056][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Dialogue': Can't find file.
+[2019.12.05-19.38.36:056][  0]LoadErrors: Failed to load /Game/Audio/SoundClasses/SCL_Dialogue.SCL_Dialogue Referenced by Master
+[2019.12.05-19.38.36:057][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Dialogue': Can't find file.
+[2019.12.05-19.38.36:057][  0]LoadErrors: Failed to load /Game/Audio/SoundClasses/SCL_Dialogue.SCL_Dialogue Referenced by Master
+[2019.12.05-19.38.36:057][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Music': Can't find file.
+[2019.12.05-19.38.36:057][  0]LoadErrors: Failed to load /Game/Audio/SoundClasses/SCL_Music.SCL_Music Referenced by Master
+[2019.12.05-19.38.36:057][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_Music': Can't find file.
+[2019.12.05-19.38.36:057][  0]LoadErrors: Failed to load /Game/Audio/SoundClasses/SCL_Music.SCL_Music Referenced by Master
+[2019.12.05-19.38.36:057][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_SoundEffects': Can't find file.
+[2019.12.05-19.38.36:057][  0]LoadErrors: Failed to load /Game/Audio/SoundClasses/SCL_SoundEffects.SCL_SoundEffects Referenced by Master
+[2019.12.05-19.38.36:057][  0]LogLinker: Warning: While loading '../../../Engine/Content/EngineSounds/Master.uasset' failed to load '/Game/Audio/SoundClasses/SCL_SoundEffects': Can't find file.
+[2019.12.05-19.38.36:057][  0]LoadErrors: Failed to load /Game/Audio/SoundClasses/SCL_SoundEffects.SCL_SoundEffects Referenced by Master
+[2019.12.05-19.38.36:512][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.064198 seconds
+[2019.12.05-19.38.36:518][  0]LogUObjectArray: 43448 objects as part of root set at end of initial load.
+[2019.12.05-19.38.36:518][  0]LogUObjectAllocator: 7549480 out of 0 bytes used by permanent object pool.
+[2019.12.05-19.38.36:518][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.05-19.38.38:846][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.05-19.38.38:849][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.05-19.38.38:906][  0]SourceControl: Source control is disabled
+[2019.12.05-19.38.38:906][  0]SourceControl: Source control is disabled
+[2019.12.05-19.38.38:908][  0]SourceControl: Source control is disabled
+[2019.12.05-19.38.38:909][  0]SourceControl: Source control is disabled
+[2019.12.05-19.38.39:024][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.05-19.38.39:135][  0]LogOcInput: OculusInput pre-init called
+[2019.12.05-19.38.40:409][  0]LogEngine: Initializing Engine...
+[2019.12.05-19.38.40:410][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.05-19.38.40:411][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.05-19.38.40:622][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.05-19.38.40:635][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.05-19.38.40:657][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.38.40:674][  0]LogInit: FAudioDevice initialized.
+[2019.12.05-19.38.40:674][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.05-19.38.40:715][  0]LogDerivedDataCache: Saved boot cache 0.04s 76MB C:/Users/quinnhenschel/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.05-19.38.40:721][  0]LogInit: Texture streaming: Enabled
+[2019.12.05-19.38.40:739][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.05-19.38.40:809][  0]LogInit: Transaction tracking system initialized
+[2019.12.05-19.38.40:838][  0]BlueprintLog: New page: Editor Load
+[2019.12.05-19.38.40:911][  0]LocalizationService: Localization service is disabled
+[2019.12.05-19.38.41:157][  0]LogFileCache: Scanning file cache for directory 'C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/' took 0.01s
+[2019.12.05-19.38.41:157][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.05-19.38.41:157][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.05-19.38.41:412][  0]SourceControl: Source control is disabled
+[2019.12.05-19.38.41:412][  0]Cmd: MAP LOAD FILE="../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/WEND/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-19.38.41:414][  0]LightingResults: New page: Lighting Build
+[2019.12.05-19.38.41:416][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.38.41:416][  0]MapCheck: New page: Map Check
+[2019.12.05-19.38.41:416][  0]LightingResults: New page: Lighting Build
+[2019.12.05-19.38.41:439][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.05-19.38.41:511][  0]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.12.05-19.38.41:511][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-19.38.41:538][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.12.05-19.38.41:538][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-19.38.41:538][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2019.12.05-19.38.41:538][  0]LogFileHelpers: Loading map 'MainMenuMap' took 0.126
+[2019.12.05-19.38.41:648][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.38.41:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.38.41:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.38.41:663][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.38.41:670][  0]LogCollectionManager: Loaded 0 collections in 0.001348 seconds
+[2019.12.05-19.38.41:676][  0]LogFileCache: Scanning file cache for directory 'C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Collections/' took 0.00s
+[2019.12.05-19.38.41:676][  0]LogFileCache: Scanning file cache for directory 'C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/Developers/quinnhenschel/Collections/' took 0.00s
+[2019.12.05-19.38.41:676][  0]LogFileCache: Scanning file cache for directory 'C:/Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/Collections/' took 0.00s
+[2019.12.05-19.38.41:676][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.05-19.38.41:682][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2863 classes and 680 folders.
+[2019.12.05-19.38.41:688][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.05-19.38.41:862][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.05-19.38.41:870][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.05-19.38.41:927][  0]LogSlate: Took 0.002012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.05-19.38.41:930][  0]LogSlate: Took 0.001537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.05-19.38.41:936][  0]LogSlate: Took 0.001700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.05-19.38.42:005][  0]LogRenderer: Reallocating scene render targets to support 1120x592 Format 10 NumSamples 1 (Frame:1).
+[2019.12.05-19.38.42:082][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.05-19.38.42:082][  0]LogLoad: (Engine Initialization) Total time: 11.85 seconds
+[2019.12.05-19.38.42:082][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.05-19.38.42:136][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.05-19.38.42:303][  4]LogAssetRegistry: Asset discovery search completed in 6.6096 seconds
+[2019.12.05-19.38.42:305][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.12.05-19.38.42:305][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2019.12.05-19.38.45:312][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.38.45:370][371]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-19.38.45:383][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/WEND/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.12.05-19.38.45:383][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-19.38.45:383][371]PIE: New page: PIE session: MainMenuMap (Dec 5, 2019, 9:38:45 AM)
+[2019.12.05-19.38.45:384][371]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.05-19.38.45:385][371]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_MainMenuMap
+[2019.12.05-19.38.45:386][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001367s)
+[2019.12.05-19.38.45:387][371]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.12.05-19.38.45:387][371]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2019.12.05-19.38.45:387][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/MainMenuMap.MainMenuMap to /Game/WEND/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.002212s)
+[2019.12.05-19.38.45:408][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.12.05-19.38.45:418][371]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.38.45:428][371]LogInit: FAudioDevice initialized.
+[2019.12.05-19.38.45:947][371]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.38.45:948][371]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2019.12.05-14.38.45
+[2019.12.05-19.38.45:948][371]LogWorld: Bringing up level for play took: 0.000300
+[2019.12.05-19.38.45:948][371]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.05-19.38.45:955][371]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.12.05-19.38.45:959][371]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_MainMenuMap 0.147
+[2019.12.05-19.38.45:959][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/WEND/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.12.05-19.38.46:162][394]LogSlate: Took 0.001517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.05-19.38.47:059][501]LogNet: Browse: /Game/WEND/Maps/WendGameMap
+[2019.12.05-19.38.47:059][501]LogLoad: LoadMap: /Game/WEND/Maps/WendGameMap
+[2019.12.05-19.38.47:059][501]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_MainMenuMap
+[2019.12.05-19.38.47:060][501]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.38.47:085][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.05-19.38.47:393][501]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.38.47:394][501]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.38.47:473][501]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.38.47
+[2019.12.05-19.38.47:474][501]LogWorld: Bringing up level for play took: 0.079068
+[2019.12.05-19.38.47:479][501]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.05-19.38.47:479][501]LogLoad: Took 0.419869 seconds to LoadMap(/Game/WEND/Maps/WendGameMap)
+[2019.12.05-19.38.49:470][739]LogMaterial: Warning: Material /Game/WEND/Materials/M_AltarGlyph_Triangle.M_AltarGlyph_Triangle missing bUsedWithStaticLighting=True! Default Material will be used in game.
+[2019.12.05-19.38.49:470][739]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.12.05-19.38.52:520][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/WEND/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.12.05-19.38.52:521][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.38.52:521][105]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.38.52:521][105]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.38.52:530][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-19.38.52:530][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/WEND/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.12.05-19.38.52:555][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.38.52:561][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.05-19.38.52:627][113]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.05-19.39.30:745][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.39.40:854][898]LogSlate: Took 0.000700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.05-19.39.41:820][  1]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/WEND/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap
+[2019.12.05-19.39.42:004][  1]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.12.05-19.39.42:581][  1]LogSlate: Took 0.001531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.05-19.39.42:608][  2]LogSlate: Took 0.001520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.05-19.39.46:364][452]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.39.50:874][983]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.39.50:934][983]LogAssetEditorManager: Opening Asset editor for World /Game/WEND/Maps/WendGameMap.WendGameMap
+[2019.12.05-19.39.50:964][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.12.05-19.39.50:965][983]Cmd: MAP LOAD FILE="../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/WEND/Maps/WendGameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.05-19.39.50:965][983]LightingResults: New page: Lighting Build
+[2019.12.05-19.39.50:966][983]LoadErrors: New page: Loading map: WendGameMap.umap
+[2019.12.05-19.39.50:966][983]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.39.50:966][983]MapCheck: New page: Map Check
+[2019.12.05-19.39.50:966][983]LightingResults: New page: Lighting Build
+[2019.12.05-19.39.50:993][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.12.05-19.39.51:162][983]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.05-19.39.51:198][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.12.05-19.39.51:222][983]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.05-19.39.51:223][983]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2019.12.05-19.39.51:223][983]LogFileHelpers: Loading map 'WendGameMap' took 0.257
+[2019.12.05-19.39.54:738][391]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap
+[2019.12.05-19.39.58:448][800]LogSlate: Window 'WendGameMap' being destroyed
+[2019.12.05-19.40.08:012][947]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/WEND/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.12.05-19.40.49:303][785]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.05-19.40.49:517][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.12.05-19.40.49:727][785]LogSavePackage: Moving '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/ThirdPersonCharacter8F1150A6429494498CA80DB51A16A6C3.tmp' to '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.05-19.40.52:158][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-19.40.52:171][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.40.52:171][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-19.40.52:171][ 35]PIE: New page: PIE session: WendGameMap (Dec 5, 2019, 9:40:52 AM)
+[2019.12.05-19.40.52:171][ 35]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.40.52:191][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019980s)
+[2019.12.05-19.40.52:192][ 35]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.40.52:192][ 35]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2019.12.05-19.40.52:192][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.020910s)
+[2019.12.05-19.40.52:222][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.12.05-19.40.52:232][ 35]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.40.52:242][ 35]LogInit: FAudioDevice initialized.
+[2019.12.05-19.40.52:246][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.40.52:246][ 35]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.40.52:256][ 35]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.40.52
+[2019.12.05-19.40.52:256][ 35]LogWorld: Bringing up level for play took: 0.009817
+[2019.12.05-19.40.52:261][ 35]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.12.05-19.40.52:262][ 35]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.05-19.40.52:267][ 35]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.463
+[2019.12.05-19.40.52:268][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.40.52:291][ 36]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.12.05-19.40.56:721][483]LogMaterial: Warning: Material /Game/WEND/Materials/M_AltarGlyph_Square.M_AltarGlyph_Square missing bUsedWithStaticLighting=True! Default Material will be used in game.
+[2019.12.05-19.40.56:721][483]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.12.05-19.40.58:757][687]LogMaterial: Warning: Material /Game/WEND/Materials/M_AltarGlyph_Circle.M_AltarGlyph_Circle missing bUsedWithStaticLighting=True! Default Material will be used in game.
+[2019.12.05-19.40.58:757][687]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.12.05-19.41.56:240][615]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-19.42.12:619][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.42.12:620][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.42.12:620][389]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.42.12:633][389]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.05-19.42.12:636][389]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.42.12:665][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-19.42.12:665][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.42.12:703][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.12.05-19.42.12:924][390]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.12.05-19.42.28:598][349]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-19.42.28:611][349]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.42.28:612][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-19.42.28:612][349]PIE: New page: PIE session: WendGameMap (Dec 5, 2019, 9:42:28 AM)
+[2019.12.05-19.42.28:612][349]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.42.28:632][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020193s)
+[2019.12.05-19.42.28:633][349]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.42.28:633][349]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2019.12.05-19.42.28:633][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.021072s)
+[2019.12.05-19.42.28:660][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.05-19.42.28:669][349]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.42.28:679][349]LogInit: FAudioDevice initialized.
+[2019.12.05-19.42.28:683][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.42.28:683][349]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.42.28:693][349]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.42.28
+[2019.12.05-19.42.28:694][349]LogWorld: Bringing up level for play took: 0.009698
+[2019.12.05-19.42.28:698][349]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.12.05-19.42.28:699][349]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.05-19.42.28:705][349]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.908
+[2019.12.05-19.42.28:706][349]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.42.30:769][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.42.30:769][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.42.30:769][550]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.42.30:782][550]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.05-19.42.30:784][550]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.42.30:814][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-19.42.30:814][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.42.30:851][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.05-19.42.31:075][551]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.12.05-19.42.41:449][740]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.05-19.42.41:649][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.12.05-19.42.41:852][740]LogSavePackage: Moving '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/ThirdPersonCharacter9D9BE4154204EE3B1BB0878D22E97FB6.tmp' to '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/WEND/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2019.12.05-19.42.42:923][843]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-19.42.42:936][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.42.42:936][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-19.42.42:937][843]PIE: New page: PIE session: WendGameMap (Dec 5, 2019, 9:42:42 AM)
+[2019.12.05-19.42.42:937][843]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.42.42:957][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020331s)
+[2019.12.05-19.42.42:958][843]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.42.42:958][843]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2019.12.05-19.42.42:958][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.021205s)
+[2019.12.05-19.42.42:988][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.12.05-19.42.42:998][843]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.42.43:007][843]LogInit: FAudioDevice initialized.
+[2019.12.05-19.42.43:011][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.42.43:011][843]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.42.43:021][843]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.42.43
+[2019.12.05-19.42.43:021][843]LogWorld: Bringing up level for play took: 0.009669
+[2019.12.05-19.42.43:025][843]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.12.05-19.42.43:027][843]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.05-19.42.43:031][843]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap -0.765
+[2019.12.05-19.42.43:032][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.42.45:592][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.42.45:592][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.42.45:592][149]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.42.45:606][149]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.05-19.42.45:608][149]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.42.45:637][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-19.42.45:637][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.42.45:676][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.12.05-19.42.45:880][150]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.12.05-19.42.51:230][790]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/WEND/Blueprints/Door/BP_Door.BP_Door
+[2019.12.05-19.43.16:573][785]BlueprintLog: New page: Compile BP_Door
+[2019.12.05-19.43.16:755][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.05-19.43.16:808][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WEND/Blueprints/Door/BP_Door" FILE="../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/WEND/Blueprints/Door/BP_Door.uasset" SILENT=true
+[2019.12.05-19.43.16:853][785]LogSavePackage: Moving '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/BP_Door22D7FE9546513EE231C5388D910F2B07.tmp' to '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/WEND/Blueprints/Door/BP_Door.uasset'
+[2019.12.05-19.43.17:196][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WEND/Blueprints/Door/BP_Door" FILE="../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/WEND/Blueprints/Door/BP_Door.uasset" SILENT=true
+[2019.12.05-19.43.17:229][821]LogSavePackage: Moving '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/BP_DoorFAE9A7B84B4EB2A338CEADB0D598C287.tmp' to '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/WEND/Blueprints/Door/BP_Door.uasset'
+[2019.12.05-19.43.18:274][945]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-19.43.18:287][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.43.18:287][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-19.43.18:287][945]PIE: New page: PIE session: WendGameMap (Dec 5, 2019, 9:43:18 AM)
+[2019.12.05-19.43.18:287][945]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.43.18:307][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020067s)
+[2019.12.05-19.43.18:308][945]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.43.18:308][945]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2019.12.05-19.43.18:308][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.020938s)
+[2019.12.05-19.43.18:342][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.12.05-19.43.18:352][945]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.43.18:362][945]LogInit: FAudioDevice initialized.
+[2019.12.05-19.43.18:366][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.43.18:366][945]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.43.18:376][945]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.43.18
+[2019.12.05-19.43.18:376][945]LogWorld: Bringing up level for play took: 0.009466
+[2019.12.05-19.43.18:380][945]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.12.05-19.43.18:382][945]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.05-19.43.18:383][945]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.589
+[2019.12.05-19.43.18:384][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.43.35:588][  4]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.43.35:588][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.43.35:588][  4]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.43.35:601][  4]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.05-19.43.35:603][  4]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.43.35:621][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-19.43.35:621][  4]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.43.35:660][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.12.05-19.43.35:695][  6]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.12.05-19.43.48:936][190]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-19.43.48:949][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.43.48:949][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-19.43.48:949][190]PIE: New page: PIE session: WendGameMap (Dec 5, 2019, 9:43:48 AM)
+[2019.12.05-19.43.48:949][190]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.43.48:971][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021156s)
+[2019.12.05-19.43.48:971][190]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.43.48:971][190]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2019.12.05-19.43.48:971][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.022066s)
+[2019.12.05-19.43.49:001][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.12.05-19.43.49:011][190]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.43.49:021][190]LogInit: FAudioDevice initialized.
+[2019.12.05-19.43.49:024][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.43.49:024][190]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.43.49:034][190]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.43.49
+[2019.12.05-19.43.49:035][190]LogWorld: Bringing up level for play took: 0.010038
+[2019.12.05-19.43.49:039][190]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.12.05-19.43.49:040][190]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.05-19.43.49:042][190]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap -0.75
+[2019.12.05-19.43.49:043][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.45.01:185][843]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-19.45.07:247][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.45.07:247][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.45.07:247][568]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.45.07:261][568]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.05-19.45.07:263][568]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.45.07:277][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-19.45.07:277][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.45.07:318][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.12.05-19.45.07:352][570]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.12.05-19.45.22:460][383]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-19.45.22:473][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.45.22:473][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-19.45.22:473][383]PIE: New page: PIE session: WendGameMap (Dec 5, 2019, 9:45:22 AM)
+[2019.12.05-19.45.22:473][383]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.45.22:494][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020237s)
+[2019.12.05-19.45.22:494][383]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.45.22:494][383]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.12.05-19.45.22:494][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.021108s)
+[2019.12.05-19.45.22:523][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.05-19.45.22:533][383]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.45.22:542][383]LogInit: FAudioDevice initialized.
+[2019.12.05-19.45.22:547][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.45.22:547][383]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.45.22:556][383]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.45.22
+[2019.12.05-19.45.22:557][383]LogWorld: Bringing up level for play took: 0.009649
+[2019.12.05-19.45.22:561][383]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2019.12.05-19.45.22:562][383]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.05-19.45.22:564][383]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.778
+[2019.12.05-19.45.22:565][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.46.26:475][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-19.46.30:973][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.46.30:973][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.46.30:973][586]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.46.30:986][586]LogSlate: Window 'Wend_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.05-19.46.30:989][586]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.46.31:004][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-19.46.31:004][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.46.31:043][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.05-19.46.31:078][588]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.12.05-19.51.08:477][416]LogAudioEditor: Performing atomic reimport of [C:/Users/quinnhenschel/Desktop/WendSFX/Exports/Win_Game.wav]
+[2019.12.05-19.51.08:478][416]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/quinnhenschel/Desktop/WendSFX/Exports/Win_Game.wav)
+[2019.12.05-19.51.08:479][416]LogAudioEditor: Stopping Sound Resources of Existing Sound
+[2019.12.05-19.51.08:479][416]LogAudioEditor: Component 'SC_GameWin' Stopped
+[2019.12.05-19.51.08:482][416]LogAudioEditor: -- imported successfully
+[2019.12.05-19.51.12:310][501]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-19.51.12:322][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.51.12:323][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-19.51.12:323][501]PIE: New page: PIE session: WendGameMap (Dec 5, 2019, 9:51:12 AM)
+[2019.12.05-19.51.12:323][501]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.51.12:343][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019685s)
+[2019.12.05-19.51.12:343][501]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.51.12:344][501]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.12.05-19.51.12:344][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.020837s)
+[2019.12.05-19.51.12:374][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.05-19.51.12:384][501]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.51.12:394][501]LogInit: FAudioDevice initialized.
+[2019.12.05-19.51.12:401][501]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.51.12:410][501]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.51.12
+[2019.12.05-19.51.12:411][501]LogWorld: Bringing up level for play took: 0.009522
+[2019.12.05-19.51.12:415][501]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.12.05-19.51.12:417][501]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.652
+[2019.12.05-19.51.12:417][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.51.20:473][467]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.51.20:473][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.51.20:473][467]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.51.20:474][467]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.51.20:489][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-19.51.20:489][467]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.51.20:523][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.51.20:526][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.05-19.51.20:574][471]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.12.05-19.51.26:406][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.51.26:531][184]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/WEND/Audio/Sources/Relic_Pickup.Relic_Pickup
+[2019.12.05-19.51.30:636][667]LogSavePackage: Moving '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Relic_Pickup751A1F6B4322431DF7032180B637EDAE.tmp' to '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Content/WEND/Audio/Sources/Relic_Pickup.uasset'
+[2019.12.05-19.51.31:492][768]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-19.51.31:504][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.51.31:504][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-19.51.31:504][768]PIE: New page: PIE session: WendGameMap (Dec 5, 2019, 9:51:31 AM)
+[2019.12.05-19.51.31:504][768]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.51.31:524][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019684s)
+[2019.12.05-19.51.31:525][768]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.51.31:525][768]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2019.12.05-19.51.31:525][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.020617s)
+[2019.12.05-19.51.31:556][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.12.05-19.51.31:566][768]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.51.31:575][768]LogInit: FAudioDevice initialized.
+[2019.12.05-19.51.31:580][768]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.51.31:589][768]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.51.31
+[2019.12.05-19.51.31:589][768]LogWorld: Bringing up level for play took: 0.009467
+[2019.12.05-19.51.31:594][768]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2019.12.05-19.51.31:595][768]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap -0.168
+[2019.12.05-19.51.31:595][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.52.42:535][276]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Win_Game...
+[2019.12.05-19.52.42:563][276]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 383686 to 462596 while cooking SoundWave /Game/WEND/Audio/Sources/Win_Game.Win_Game.
+[2019.12.05-19.52.46:930][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.05-19.52.53:728][616]LogNet: Browse: /Game/WEND/Maps/WendGameMap
+[2019.12.05-19.52.53:728][616]LogLoad: LoadMap: /Game/WEND/Maps/WendGameMap
+[2019.12.05-19.52.53:728][616]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.52.53:729][616]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.52.53:763][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.12.05-19.52.53:763][616]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.52.53:783][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019137s)
+[2019.12.05-19.52.53:784][616]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.52.53:784][616]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2019.12.05-19.52.53:784][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.020127s)
+[2019.12.05-19.52.53:784][616]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.52.53:793][616]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.52.53
+[2019.12.05-19.52.53:793][616]LogWorld: Bringing up level for play took: 0.009625
+[2019.12.05-19.52.53:797][616]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.05-19.52.53:798][616]LogLoad: Took 0.069719 seconds to LoadMap(/Game/WEND/Maps/UEDPIE_0_WendGameMap)
+[2019.12.05-19.53.34:552][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.53.34:552][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.53.34:552][503]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.53.34:552][503]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.53.34:558][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-19.53.34:558][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.53.34:594][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.53.34:597][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.12.05-19.53.34:658][509]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.12.05-19.53.35:784][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.53.35:858][653]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-19.53.35:880][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.53.35:880][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-19.53.35:880][653]PIE: New page: PIE session: WendGameMap (Dec 5, 2019, 9:53:35 AM)
+[2019.12.05-19.53.35:880][653]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.53.35:899][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018648s)
+[2019.12.05-19.53.35:900][653]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.53.35:900][653]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2019.12.05-19.53.35:900][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.019507s)
+[2019.12.05-19.53.35:929][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.05-19.53.35:939][653]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.53.35:949][653]LogInit: FAudioDevice initialized.
+[2019.12.05-19.53.35:954][653]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.53.35:963][653]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.53.35
+[2019.12.05-19.53.35:963][653]LogWorld: Bringing up level for play took: 0.009239
+[2019.12.05-19.53.35:967][653]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2019.12.05-19.53.35:969][653]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.213
+[2019.12.05-19.53.35:969][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.53.36:561][723]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.53.36:561][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.53.36:561][723]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.53.36:561][723]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.53.36:574][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-19.53.36:574][723]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.53.36:607][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.53.36:611][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.12.05-19.53.36:668][728]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.12.05-19.53.38:318][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.05-19.53.38:401][936]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.05-19.53.38:413][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.53.38:413][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.05-19.53.38:413][936]PIE: New page: PIE session: WendGameMap (Dec 5, 2019, 9:53:38 AM)
+[2019.12.05-19.53.38:413][936]LogPlayLevel: Creating play world package: /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.53.38:432][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018579s)
+[2019.12.05-19.53.38:432][936]LogAIModule: Creating AISystem for world WendGameMap
+[2019.12.05-19.53.38:433][936]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.12.05-19.53.38:433][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WEND/Maps/WendGameMap.WendGameMap to /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap (0.019432s)
+[2019.12.05-19.53.38:461][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.05-19.53.38:472][936]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.05-19.53.38:481][936]LogInit: FAudioDevice initialized.
+[2019.12.05-19.53.38:485][936]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.05-19.53.38:495][936]LogWorld: Bringing World /Game/WEND/Maps/UEDPIE_0_WendGameMap.WendGameMap up for play (max tick rate 0) at 2019.12.05-14.53.38
+[2019.12.05-19.53.38:495][936]LogWorld: Bringing up level for play took: 0.009328
+[2019.12.05-19.53.38:499][936]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2019.12.05-19.53.38:501][936]PIE: Play in editor start time for /Game/WEND/Maps/UEDPIE_0_WendGameMap 0.745
+[2019.12.05-19.53.38:501][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.53.39:760][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.53.39:760][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.53.39:760][ 86]LogWorld: BeginTearingDown for /Game/WEND/Maps/UEDPIE_0_WendGameMap
+[2019.12.05-19.53.39:760][ 86]LogWorld: UWorld::CleanupWorld for WendGameMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.05-19.53.39:776][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.05-19.53.39:776][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel' has LevelScriptBlueprint '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap' with GeneratedClass '/Game/WEND/Maps/WendGameMap.WendGameMap_C' with ClassGeneratedBy '/Game/WEND/Maps/WendGameMap.WendGameMap:PersistentLevel.WendGameMap'
+[2019.12.05-19.53.39:810][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.05-19.53.39:814][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.12.05-19.53.39:859][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.12.05-19.56.13:759][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.12.05-19.56.14:029][651]LogSavePackage: Moving '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/WendGameMap_Auto1B9570FB148A140FB8F3864AF228C8FB5.tmp' to '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Autosaves/Game/WEND/Maps/WendGameMap_Auto1.umap'
+[2019.12.05-19.56.14:032][651]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WEND/Maps/WendGameMap' took 0.302
+[2019.12.05-19.56.14:032][651]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.302
+[2019.12.05-19.56.14:034][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WEND/Audio/Sources/Win_Game] ([1] browsable assets)...
+[2019.12.05-19.56.14:036][651]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/WEND/Audio/Sources/Win_Game.Win_Game]
+[2019.12.05-19.56.14:036][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/WEND/Audio/Sources/Win_Game]
+[2019.12.05-19.56.14:054][651]LogSavePackage: Moving '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Win_Game_Auto144F9CE0B4D5FE5D59D9952A98B60B2C5.tmp' to '../../../../../../Users/quinnhenschel/Desktop/Wend/WendGame/Wend_Prototype/Saved/Autosaves/Game/WEND/Audio/Sources/Win_Game_Auto1.uasset'
+[2019.12.05-19.56.14:055][651]LogFileHelpers: Auto-saving content packages took 0.022
